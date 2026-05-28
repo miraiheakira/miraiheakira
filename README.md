@@ -1,4 +1,4 @@
-#嗨，欢迎来到我的GitHub！
+# 👋 Hi there, Welcome to my GitHub!
 
 > 🌟 **热爱编程 · 拥抱开源 · 终身学习**
 
@@ -20,4 +20,4 @@
 
 ---
 
-> 💡 *继续编码，继续阅读。保持热爱，奔赴山海！* 🚀
+> 💡 *Keep coding, keep reading. 保持热爱，奔赴山海！* 🚀
