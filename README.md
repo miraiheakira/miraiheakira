@@ -5,4 +5,4 @@
 - 🛠️ 喜欢写一些实用的小工具
 - 📖 磨砚读诗书，提笔写江湖
 
-> 💡 *Keep coding, keep reading. 保持热爱，奔赴山海！* 🚀
+> 💡 *Keep coding, keep reading.* 🚀
