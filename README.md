@@ -1,16 +1,23 @@
-## Hi there 👋
+#嗨，欢迎来到我的GitHub！
 
-<!--
-**miraiheakira/miraiheakira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🌟 **热爱编程 · 拥抱开源 · 终身学习**
 
-Here are some ideas to get you started:
+- 🌱 目前正在学习新的开源技术
+- 🛠️ 喜欢写一些实用的小工具
+- 📖 业余时间喜欢读诗词、看书
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 来首宋词
+
+### 🌧️ 如梦令·昨夜雨疏风骤
+
+** 李清照[宋] **
+
+昨夜雨疏风骤，浓睡不消残酒。🍶  
+试问卷帘人，却道海棠依旧。🌺  
+知否，知否？应是绿肥红瘦。🍃  
+
+---
+
+> 💡 *继续编码，继续阅读。保持热爱，奔赴山海！* 🚀
